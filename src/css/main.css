@@ -3,11 +3,12 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #f5f6f7;
+    background: #bdbec0;
     user-select: none;
   }
   
   .container {
+    border: #000;
     position: relative;
     display: flex;
     flex-direction: column;
